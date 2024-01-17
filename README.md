@@ -80,4 +80,4 @@ Below are the performance results.
 
 ## Performance Considerations
 
-- Adjust the number of threads based on the system and matrix dimensions for optimal performance.   
+- Adjust the number of threads based on the system and array size for optimal performance.   
